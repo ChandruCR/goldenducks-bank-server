@@ -209,7 +209,7 @@
         "date": "2017-08-20T21:40:37.000Z",
         "balances": [
           {
-            "amount": 2152.76,
+            "amount": 4302.76,
             "debit_credit": "credit",
             "date": "2017-08-19"
           },
@@ -308,7 +308,7 @@
         "date": "2017-09-20T21:40:37.000Z",
         "balances": [
           {
-            "amount": 2152.76,
+            "amount": 6452.76,
             "debit_credit": "credit",
             "date": "2017-09-19"
           },
@@ -407,7 +407,7 @@
         "date": "2017-10-20T21:40:37.000Z",
         "balances": [
           {
-            "amount": 2152.76,
+            "amount": 8602.76,
             "debit_credit": "credit",
             "date": "2017-10-19"
           },
